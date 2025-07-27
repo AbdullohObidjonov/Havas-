@@ -18,3 +18,26 @@ ul {
   margin-left: auto;
   margin-right: auto;
 }
+
+header .logo-menus {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header .logo-menus .logo {
+  width: 52px;
+  height: 63px;
+}
+header .logo-menus .logo-contacts {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+header .logo-menus .logo-contacts .logo-contacts img {
+  width: 17px;
+  height: 17px;
+}
+header .logo-menus .logo-contacts .tel {
+  font-size: 16px;
+  color: black;
+}

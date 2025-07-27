@@ -1,0 +1,24 @@
+header{
+    .logo-menus{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .logo{
+            width: 52px;
+            height: 63px;
+        }
+        .logo-contacts{
+            display: flex;
+            align-items: center;
+            gap: 30px;
+            .logo-contacts img{
+                width: 17px;
+                height: 17px;
+            }
+            .tel{
+                font-size: 16px;
+                color: black;
+            }
+        }
+    }
+}
