@@ -1,13 +1,15 @@
-#abidov{
+#karyera{
     display: flex;
-    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
     gap: 50px;
-    img{
+    .karyera-imh{
         width: 562px;
        height: 378px;
        opacity: 1;
-     }
-   .commit{
+          }
+   .karyera-commit{
+    padding-top:50px ;
     h1{
         font-family: Circe;
         font-weight: 700;
