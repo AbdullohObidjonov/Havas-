@@ -19,6 +19,7 @@ ul {
   margin-right: auto;
 }
 
+<<<<<<< HEAD
 header .logo-menus {
   display: flex;
   justify-content: space-between;
@@ -40,4 +41,25 @@ header .logo-menus .logo-contacts .logo-contacts img {
 header .logo-menus .logo-contacts .tel {
   font-size: 16px;
   color: black;
+=======
+#karyera {
+  display: flex;
+  padding: 20px;
+  margin-top: 100px;
+  gap: 50px;
+}
+#karyera .karyera-imh {
+  width: 562px;
+  height: 378px;
+  opacity: 1;
+}
+#karyera .karyera-commit {
+  padding-top: 50px;
+}
+#karyera .karyera-commit h1 {
+  font-family: Circe;
+  font-weight: 700;
+  font-size: 26px;
+  vertical-align: middle;
+>>>>>>> 182c4704b583f1dbc5c3b578a4fcb7b38e671101
 }

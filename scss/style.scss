@@ -1,10 +1,11 @@
-@import "./vendors/bootstrap";
+
 @import "./base/reset";
 @import "./utils/variables";
+@import "./vendors/bootstrap";
 @import "./layout/header";
 @import "./layout/footer";
 @import "./pages/about";
-@import "./pages/karyera";
+@import"./pages/karyera";
 @import "./pages/market";
 @import "./pages/produkt";
 @import "./pages/home";

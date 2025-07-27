@@ -1,0 +1,16 @@
+#abidov {
+  display: flex;
+  text-align: center;
+  gap: 50px;
+}
+#abidov .hdc {
+  width: 562px;
+  height: 378px;
+  opacity: 1;
+}
+#abidov .commit h1 {
+  font-family: Circe;
+  font-weight: 700;
+  font-size: 26px;
+  vertical-align: middle;
+}
